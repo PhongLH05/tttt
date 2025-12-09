@@ -1,7 +1,7 @@
 package com.example.myapplication.model
 
 data class TopicItem(
-    val img: String,
+    val img: Int,
     val name: String,
     var isSelected: Boolean = false
 )

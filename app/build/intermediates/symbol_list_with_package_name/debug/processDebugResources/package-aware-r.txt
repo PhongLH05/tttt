@@ -3460,6 +3460,15 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+drawable a1
+drawable a2
+drawable a3
+drawable a4
+drawable a5
+drawable a6
+drawable a7
+drawable a9
+drawable aa
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -3541,6 +3550,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable banner
+drawable bg_radius_label
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3551,6 +3562,9 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable button_gradient
 drawable button_gray
+drawable card_border_selected
+drawable card_border_unselected
+drawable checkbox_custom
 drawable dark_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -3581,6 +3595,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable img
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3767,13 +3782,15 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btn_dowload
 id btn_next
-id button2
 id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
 id card
+id card_container
+id card_survey
 id carryVelocity
 id cb_select
 id center
@@ -3797,7 +3814,6 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
-id constraintLayout
 id container
 id content
 id contentPanel
@@ -3877,6 +3893,7 @@ id floating
 id forever
 id fragment_container_view_tag
 id frame_ads
+id frame_content
 id frost
 id fullscreen_header
 id ghost_view
@@ -3903,10 +3920,10 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView
 id imageView2
 id imgView
 id img_ads
+id img_content
 id immediateStop
 id included
 id indeterminate
@@ -3927,7 +3944,6 @@ id legacy
 id line1
 id line3
 id linear
-id linearLayout
 id listMode
 id list_item
 id m3_side_sheet
@@ -4066,7 +4082,6 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
-id rv_phone_screens
 id rv_topics
 id save_non_transition_alpha
 id save_overlay_view
@@ -4155,8 +4170,6 @@ id textStart
 id textTop
 id textView
 id textView2
-id textView3
-id textView4
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -4200,6 +4213,7 @@ id up
 id useLogo
 id vertical
 id vertical_only
+id viewPager
 id view_offset_helper
 id view_transition
 id view_tree_disjoint_parent
@@ -4360,6 +4374,7 @@ layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout item_ads
 layout item_checkbox
+layout item_ob_page
 layout item_phone_screen
 layout item_survey
 layout item_survey_ads
@@ -4422,6 +4437,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout page_ob_content
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

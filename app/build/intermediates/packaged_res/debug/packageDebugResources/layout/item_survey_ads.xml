@@ -4,15 +4,47 @@
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:text="Ad"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:paddingHorizontal="4dp"
+            android:gravity="center"
+            android:background="@drawable/bg_radius_label"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:text="i"
+            android:textColor="#606060"
+            android:gravity="center"/>
+    </LinearLayout>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Dowload"/>
+        android:text="Dowload"
+        android:background="@null"
+        android:backgroundTint="#22B9FF"/>
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/ic_launcher_background"/>
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:src="@drawable/a2"/>
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -21,21 +53,24 @@
             android:id="@+id/img_ads"
             android:layout_width="35dp"
             android:layout_height="35dp"
-            android:src="@drawable/ic_launcher_background" />
+            android:src="@drawable/a1" />
 
         <TextView
             android:id="@+id/tx_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="7dp"
+            android:textSize="12dp"
+            android:textFontWeight="500"
             android:layout_toEndOf="@+id/img_ads"
-            android:text="Test" />
+            android:text="CapCut - Video Edit" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Link"
+            android:text="https://www.abcxyz.com/test/try200/?promoa"
             android:textSize="9sp"
+            android:textColor="#B3B3B3"
             android:layout_marginStart="7dp"
             android:layout_below="@id/tx_title"
             android:layout_toEndOf="@id/img_ads"

@@ -4,49 +4,49 @@ ADDED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/Andro
 INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
-MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/phongle/.gradle/caches/8.13/transforms/04d1d9219d900c0774b6876a0508c3c1/transformed/viewbinding-8.13.1/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/6703635d368062330bffd43ca7c3b6e2/transformed/material-1.13.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/b58563ea106ec1d4f16214bcdf2c09ed/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/b7ad5b5597e52fef11053c192184a6db/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/e0bfd81bffd15d38e47c33c34f40f39d/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.recyclerview:recyclerview:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/78066f9cc408297eaa454958470403cf/transformed/recyclerview-1.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/phongle/.gradle/caches/8.13/transforms/b69faee7ebe37772ff42f2eb1041386f/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.5.4] /Users/phongle/.gradle/caches/8.13/transforms/8bc055d7b5c7c91ef04592b00166d8ce/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.12.1] /Users/phongle/.gradle/caches/8.13/transforms/8768fcccc087d3f0fa4d97088f783441/transformed/activity-1.12.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/4cba473ccf1d538dfa6eac6ac0f4d724/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/1e42169b7a170cd19805e621b9adfca3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/153dba13862a85f24a19d47c8ce16862/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.5.0] /Users/phongle/.gradle/caches/8.13/transforms/08f77903c4ee37fdb490b0716b70db88/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/271b1f534a121c89ef69692c60846389/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/454b0e610cf21d07e990744a4f3dbc9a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/f339a57415b75474a537cfb09883859f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/9a4ca78f0727f5c4b904ef1755d39ba4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/9c102a8725e98f47e3d920cd82e9790b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/5a5fe2fb51efeb053e28fcfa4a7ee611/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/b677654670c206f7e38a53be20cd098b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/e84fd066ecaf6f56b313724700568d7b/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/phongle/.gradle/caches/8.13/transforms/60878a38d4d2d8d70c41c44156957e25/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/b46820df3b1711cf2a0767199312a964/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/d2e2c90aa930fd442f821d0ac23f684a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/dcbf5ca765a663e7a70375aeac70731d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/8ac63d766f39c3c841119af83448aec8/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/bf2efc2ebdfd6d9e28ec578921470fe9/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/3de116d38ffd1360124ea051223f7ee6/transformed/core-ktx-1.17.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/46ceed44e97434ff54081f011e78c2ea/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/c3298fcd26d1fdd6fcb2ba48393a6d2d/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/phongle/.gradle/caches/8.13/transforms/7976be78160315b7e707f83affe2b96d/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/b1e3d9eef38863b5e142affb54f729b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/2f677c28cecaddb4bd06562435896932/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/f06d6932dad94344975e2fb7903409b9/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/9842c559740067ef7c90cf6d52156a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/phongle/.gradle/caches/8.13/transforms/213b5b9e3766c74c30c005802b31e31b/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/fbc270464b85852aacbf215e9620270b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/phongle/.gradle/caches/8.13/transforms/9e345b1214fd0299fcfee54da126b5fa/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/phongle/.gradle/caches/8.13/transforms/f81694ee61a558c6ab46349d7748543c/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/phongle/.gradle/caches/8.13/transforms/270196dc4dd2efacd42b83567aec0d70/transformed/viewbinding-8.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/49a7a044f7808182744c9bfc2406efb4/transformed/material-1.13.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/6c956be92bee978f9edfc9a528fa0626/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/804acc1410183731b25814b065ac84fa/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/328045c3a980fa9335e6e15d61dfc482/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e7a6dbae078ab3653e33d3d21d6f926b/transformed/recyclerview-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/339ed08fdc58ea6f5bdc5753ccabdd5c/transformed/viewpager2-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/phongle/.gradle/caches/8.13/transforms/3c87b4449fe6fcaa068151e0a1d28e65/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.12.1] /Users/phongle/.gradle/caches/8.13/transforms/32e2fa198dd9dd9a3b3836526bf1311e/transformed/activity-1.12.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/a404393c6ddcb403e766879db5666dfc/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/ef508c85a9cd02729f0bc357fbdfb7f9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/3129b0abd03dec4000fae7e35bf5fd65/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/phongle/.gradle/caches/8.13/transforms/caf1ef77de5be6911489ef38e1edcbc9/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/c8e613f69cc63747d4af75aaa2ef10f6/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/1b5de5d7b3e304d879ad12a7cae4ca08/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/15e52ee682ae50ffeffdf5ebf91ff853/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/54fec529a8d9882f1b5ca43e3eb43791/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/7d3aaabbaabda522ac9fa1e3d3e0a0cc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/342f9c47899fd29a3b98884a94aaed24/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/d3088389be62a889e3ea1e4e5b0d394d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/031af91e23d2f5742e3e1d119496f09a/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/phongle/.gradle/caches/8.13/transforms/8343465b7a8d35a796dc2b7d3d99d2f2/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/26f5d5c584c36a19c91061ad0843a12e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/eb8863891acd35c61d847c4583ba1b2f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/c4ce9a321ca075e5971ddd0c932cf41d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/47b937a1546ebc8038fb1e9b151f6e2f/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/58fe40ebe1cbcc8e907464a2b9539510/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/454c8fa641806ce45fc83d1ea0298cef/transformed/core-ktx-1.17.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/468ee10cd0b47cdc6b4407c397932d90/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/ea35618aa68bf43e93d56c6a4099304c/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/phongle/.gradle/caches/8.13/transforms/46a838681c4ba754626ef94734ddd91f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/de62c1648ae6840f6d7deb6615264f35/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/65e9a80aafa0b6915c5708bc018d9519/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/ca9b9ae7921035554a3e31028972d0ad/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/c1ed0474db8ed1251c2d85877818a516/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/phongle/.gradle/caches/8.13/transforms/bc2d3fc25cff711e24e6cc3aad42b450/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/8cc9cbdac6017fb9794c4e76c90e9317/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/phongle/.gradle/caches/8.13/transforms/5ee423b06d899924e93f58e0cee8d9f6/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/phongle/.gradle/caches/8.13/transforms/47c99a5b882a621da07702e7864e9c9d/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
 	package
 		INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -60,26 +60,26 @@ MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/p
 application
 ADDED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-37:19
 INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-37:19
-MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/6703635d368062330bffd43ca7c3b6e2/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/6703635d368062330bffd43ca7c3b6e2/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/b58563ea106ec1d4f16214bcdf2c09ed/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/b58563ea106ec1d4f16214bcdf2c09ed/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/b1e3d9eef38863b5e142affb54f729b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/b1e3d9eef38863b5e142affb54f729b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/9842c559740067ef7c90cf6d52156a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/9842c559740067ef7c90cf6d52156a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/49a7a044f7808182744c9bfc2406efb4/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/49a7a044f7808182744c9bfc2406efb4/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/6c956be92bee978f9edfc9a528fa0626/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/6c956be92bee978f9edfc9a528fa0626/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/de62c1648ae6840f6d7deb6615264f35/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/de62c1648ae6840f6d7deb6615264f35/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/c1ed0474db8ed1251c2d85877818a516/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/c1ed0474db8ed1251c2d85877818a516/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -134,183 +134,183 @@ uses-sdk
 INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/phongle/.gradle/caches/8.13/transforms/04d1d9219d900c0774b6876a0508c3c1/transformed/viewbinding-8.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/phongle/.gradle/caches/8.13/transforms/04d1d9219d900c0774b6876a0508c3c1/transformed/viewbinding-8.13.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/6703635d368062330bffd43ca7c3b6e2/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/6703635d368062330bffd43ca7c3b6e2/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/b58563ea106ec1d4f16214bcdf2c09ed/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/b58563ea106ec1d4f16214bcdf2c09ed/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/b7ad5b5597e52fef11053c192184a6db/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/b7ad5b5597e52fef11053c192184a6db/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/e0bfd81bffd15d38e47c33c34f40f39d/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/e0bfd81bffd15d38e47c33c34f40f39d/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/78066f9cc408297eaa454958470403cf/transformed/recyclerview-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/78066f9cc408297eaa454958470403cf/transformed/recyclerview-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/phongle/.gradle/caches/8.13/transforms/b69faee7ebe37772ff42f2eb1041386f/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/phongle/.gradle/caches/8.13/transforms/b69faee7ebe37772ff42f2eb1041386f/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.5.4] /Users/phongle/.gradle/caches/8.13/transforms/8bc055d7b5c7c91ef04592b00166d8ce/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.4] /Users/phongle/.gradle/caches/8.13/transforms/8bc055d7b5c7c91ef04592b00166d8ce/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.12.1] /Users/phongle/.gradle/caches/8.13/transforms/8768fcccc087d3f0fa4d97088f783441/transformed/activity-1.12.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.12.1] /Users/phongle/.gradle/caches/8.13/transforms/8768fcccc087d3f0fa4d97088f783441/transformed/activity-1.12.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/4cba473ccf1d538dfa6eac6ac0f4d724/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/4cba473ccf1d538dfa6eac6ac0f4d724/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/1e42169b7a170cd19805e621b9adfca3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/1e42169b7a170cd19805e621b9adfca3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/153dba13862a85f24a19d47c8ce16862/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/153dba13862a85f24a19d47c8ce16862/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.5.0] /Users/phongle/.gradle/caches/8.13/transforms/08f77903c4ee37fdb490b0716b70db88/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.transition:transition:1.5.0] /Users/phongle/.gradle/caches/8.13/transforms/08f77903c4ee37fdb490b0716b70db88/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/271b1f534a121c89ef69692c60846389/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/271b1f534a121c89ef69692c60846389/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/454b0e610cf21d07e990744a4f3dbc9a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/454b0e610cf21d07e990744a4f3dbc9a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/f339a57415b75474a537cfb09883859f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/f339a57415b75474a537cfb09883859f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/9a4ca78f0727f5c4b904ef1755d39ba4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/9a4ca78f0727f5c4b904ef1755d39ba4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/9c102a8725e98f47e3d920cd82e9790b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/9c102a8725e98f47e3d920cd82e9790b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/5a5fe2fb51efeb053e28fcfa4a7ee611/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/5a5fe2fb51efeb053e28fcfa4a7ee611/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/b677654670c206f7e38a53be20cd098b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/b677654670c206f7e38a53be20cd098b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/e84fd066ecaf6f56b313724700568d7b/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/e84fd066ecaf6f56b313724700568d7b/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/phongle/.gradle/caches/8.13/transforms/60878a38d4d2d8d70c41c44156957e25/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/phongle/.gradle/caches/8.13/transforms/60878a38d4d2d8d70c41c44156957e25/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/b46820df3b1711cf2a0767199312a964/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/b46820df3b1711cf2a0767199312a964/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/d2e2c90aa930fd442f821d0ac23f684a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/d2e2c90aa930fd442f821d0ac23f684a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/dcbf5ca765a663e7a70375aeac70731d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/dcbf5ca765a663e7a70375aeac70731d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/8ac63d766f39c3c841119af83448aec8/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/8ac63d766f39c3c841119af83448aec8/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/bf2efc2ebdfd6d9e28ec578921470fe9/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/bf2efc2ebdfd6d9e28ec578921470fe9/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/3de116d38ffd1360124ea051223f7ee6/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/3de116d38ffd1360124ea051223f7ee6/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/46ceed44e97434ff54081f011e78c2ea/transformed/navigationevent/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/46ceed44e97434ff54081f011e78c2ea/transformed/navigationevent/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/c3298fcd26d1fdd6fcb2ba48393a6d2d/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/c3298fcd26d1fdd6fcb2ba48393a6d2d/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/phongle/.gradle/caches/8.13/transforms/7976be78160315b7e707f83affe2b96d/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/phongle/.gradle/caches/8.13/transforms/7976be78160315b7e707f83affe2b96d/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/b1e3d9eef38863b5e142affb54f729b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/b1e3d9eef38863b5e142affb54f729b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/2f677c28cecaddb4bd06562435896932/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/2f677c28cecaddb4bd06562435896932/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/f06d6932dad94344975e2fb7903409b9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/f06d6932dad94344975e2fb7903409b9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/9842c559740067ef7c90cf6d52156a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/9842c559740067ef7c90cf6d52156a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/phongle/.gradle/caches/8.13/transforms/213b5b9e3766c74c30c005802b31e31b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/phongle/.gradle/caches/8.13/transforms/213b5b9e3766c74c30c005802b31e31b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/fbc270464b85852aacbf215e9620270b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/fbc270464b85852aacbf215e9620270b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/phongle/.gradle/caches/8.13/transforms/9e345b1214fd0299fcfee54da126b5fa/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/phongle/.gradle/caches/8.13/transforms/9e345b1214fd0299fcfee54da126b5fa/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/phongle/.gradle/caches/8.13/transforms/f81694ee61a558c6ab46349d7748543c/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/phongle/.gradle/caches/8.13/transforms/f81694ee61a558c6ab46349d7748543c/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/phongle/.gradle/caches/8.13/transforms/270196dc4dd2efacd42b83567aec0d70/transformed/viewbinding-8.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.1] /Users/phongle/.gradle/caches/8.13/transforms/270196dc4dd2efacd42b83567aec0d70/transformed/viewbinding-8.13.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/49a7a044f7808182744c9bfc2406efb4/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] /Users/phongle/.gradle/caches/8.13/transforms/49a7a044f7808182744c9bfc2406efb4/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/6c956be92bee978f9edfc9a528fa0626/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/phongle/.gradle/caches/8.13/transforms/6c956be92bee978f9edfc9a528fa0626/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/804acc1410183731b25814b065ac84fa/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/804acc1410183731b25814b065ac84fa/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/328045c3a980fa9335e6e15d61dfc482/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/phongle/.gradle/caches/8.13/transforms/328045c3a980fa9335e6e15d61dfc482/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e7a6dbae078ab3653e33d3d21d6f926b/transformed/recyclerview-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e7a6dbae078ab3653e33d3d21d6f926b/transformed/recyclerview-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/339ed08fdc58ea6f5bdc5753ccabdd5c/transformed/viewpager2-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/339ed08fdc58ea6f5bdc5753ccabdd5c/transformed/viewpager2-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/phongle/.gradle/caches/8.13/transforms/3c87b4449fe6fcaa068151e0a1d28e65/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/phongle/.gradle/caches/8.13/transforms/3c87b4449fe6fcaa068151e0a1d28e65/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.12.1] /Users/phongle/.gradle/caches/8.13/transforms/32e2fa198dd9dd9a3b3836526bf1311e/transformed/activity-1.12.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.12.1] /Users/phongle/.gradle/caches/8.13/transforms/32e2fa198dd9dd9a3b3836526bf1311e/transformed/activity-1.12.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/a404393c6ddcb403e766879db5666dfc/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/a404393c6ddcb403e766879db5666dfc/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/ef508c85a9cd02729f0bc357fbdfb7f9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/ef508c85a9cd02729f0bc357fbdfb7f9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/3129b0abd03dec4000fae7e35bf5fd65/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/3129b0abd03dec4000fae7e35bf5fd65/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/phongle/.gradle/caches/8.13/transforms/caf1ef77de5be6911489ef38e1edcbc9/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/phongle/.gradle/caches/8.13/transforms/caf1ef77de5be6911489ef38e1edcbc9/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/c8e613f69cc63747d4af75aaa2ef10f6/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/c8e613f69cc63747d4af75aaa2ef10f6/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/1b5de5d7b3e304d879ad12a7cae4ca08/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/1b5de5d7b3e304d879ad12a7cae4ca08/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/15e52ee682ae50ffeffdf5ebf91ff853/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/15e52ee682ae50ffeffdf5ebf91ff853/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/54fec529a8d9882f1b5ca43e3eb43791/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/54fec529a8d9882f1b5ca43e3eb43791/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/7d3aaabbaabda522ac9fa1e3d3e0a0cc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/7d3aaabbaabda522ac9fa1e3d3e0a0cc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/342f9c47899fd29a3b98884a94aaed24/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/phongle/.gradle/caches/8.13/transforms/342f9c47899fd29a3b98884a94aaed24/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/d3088389be62a889e3ea1e4e5b0d394d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/d3088389be62a889e3ea1e4e5b0d394d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/031af91e23d2f5742e3e1d119496f09a/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/031af91e23d2f5742e3e1d119496f09a/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/phongle/.gradle/caches/8.13/transforms/8343465b7a8d35a796dc2b7d3d99d2f2/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/phongle/.gradle/caches/8.13/transforms/8343465b7a8d35a796dc2b7d3d99d2f2/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/26f5d5c584c36a19c91061ad0843a12e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/26f5d5c584c36a19c91061ad0843a12e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/eb8863891acd35c61d847c4583ba1b2f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/eb8863891acd35c61d847c4583ba1b2f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/c4ce9a321ca075e5971ddd0c932cf41d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/c4ce9a321ca075e5971ddd0c932cf41d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/47b937a1546ebc8038fb1e9b151f6e2f/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/47b937a1546ebc8038fb1e9b151f6e2f/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/58fe40ebe1cbcc8e907464a2b9539510/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/58fe40ebe1cbcc8e907464a2b9539510/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/454c8fa641806ce45fc83d1ea0298cef/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/454c8fa641806ce45fc83d1ea0298cef/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/468ee10cd0b47cdc6b4407c397932d90/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/phongle/.gradle/caches/8.13/transforms/468ee10cd0b47cdc6b4407c397932d90/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/ea35618aa68bf43e93d56c6a4099304c/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/ea35618aa68bf43e93d56c6a4099304c/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/phongle/.gradle/caches/8.13/transforms/46a838681c4ba754626ef94734ddd91f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/phongle/.gradle/caches/8.13/transforms/46a838681c4ba754626ef94734ddd91f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/de62c1648ae6840f6d7deb6615264f35/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/de62c1648ae6840f6d7deb6615264f35/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/65e9a80aafa0b6915c5708bc018d9519/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/65e9a80aafa0b6915c5708bc018d9519/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/ca9b9ae7921035554a3e31028972d0ad/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/ca9b9ae7921035554a3e31028972d0ad/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/c1ed0474db8ed1251c2d85877818a516/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/c1ed0474db8ed1251c2d85877818a516/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/phongle/.gradle/caches/8.13/transforms/bc2d3fc25cff711e24e6cc3aad42b450/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/phongle/.gradle/caches/8.13/transforms/bc2d3fc25cff711e24e6cc3aad42b450/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/8cc9cbdac6017fb9794c4e76c90e9317/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/phongle/.gradle/caches/8.13/transforms/8cc9cbdac6017fb9794c4e76c90e9317/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/phongle/.gradle/caches/8.13/transforms/5ee423b06d899924e93f58e0cee8d9f6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/phongle/.gradle/caches/8.13/transforms/5ee423b06d899924e93f58e0cee8d9f6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/phongle/.gradle/caches/8.13/transforms/47c99a5b882a621da07702e7864e9c9d/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/phongle/.gradle/caches/8.13/transforms/47c99a5b882a621da07702e7864e9c9d/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/phongle/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/9842c559740067ef7c90cf6d52156a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/9842c559740067ef7c90cf6d52156a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/c1ed0474db8ed1251c2d85877818a516/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/phongle/.gradle/caches/8.13/transforms/c1ed0474db8ed1251c2d85877818a516/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/bf316abe37bfc492ae9c8be7899253ec/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/phongle/.gradle/caches/8.13/transforms/3dfd02703ea29ac4986254643271d2ba/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
 permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
 uses-permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.17.0] /Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/37296653ff9eca49b5e3869e3116a6a2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/phongle/.gradle/caches/8.13/transforms/f7fa9c187407bb41e35f9aec331bb824/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/e64e29e2c1942e70196b19fc92b605e7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/phongle/.gradle/caches/8.13/transforms/6899c88a48594b70183b864ab81243d2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

@@ -5,10 +5,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CheckBox;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.cardview.widget.CardView;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.myapplication.R;
@@ -21,17 +23,26 @@ public final class ItemSurveyBinding implements ViewBinding {
   private final CardView rootView;
 
   @NonNull
+  public final ConstraintLayout cardContainer;
+
+  @NonNull
+  public final CardView cardSurvey;
+
+  @NonNull
   public final CheckBox cbSelect;
 
   @NonNull
-  public final TextView imgView;
+  public final ImageView imgView;
 
   @NonNull
   public final TextView tvTopicName;
 
-  private ItemSurveyBinding(@NonNull CardView rootView, @NonNull CheckBox cbSelect,
-      @NonNull TextView imgView, @NonNull TextView tvTopicName) {
+  private ItemSurveyBinding(@NonNull CardView rootView, @NonNull ConstraintLayout cardContainer,
+      @NonNull CardView cardSurvey, @NonNull CheckBox cbSelect, @NonNull ImageView imgView,
+      @NonNull TextView tvTopicName) {
     this.rootView = rootView;
+    this.cardContainer = cardContainer;
+    this.cardSurvey = cardSurvey;
     this.cbSelect = cbSelect;
     this.imgView = imgView;
     this.tvTopicName = tvTopicName;
@@ -64,6 +75,14 @@ public final class ItemSurveyBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.card_container;
+      ConstraintLayout cardContainer = ViewBindings.findChildViewById(rootView, id);
+      if (cardContainer == null) {
+        break missingId;
+      }
+
+      CardView cardSurvey = (CardView) rootView;
+
       id = R.id.cb_select;
       CheckBox cbSelect = ViewBindings.findChildViewById(rootView, id);
       if (cbSelect == null) {
@@ -71,7 +90,7 @@ public final class ItemSurveyBinding implements ViewBinding {
       }
 
       id = R.id.imgView;
-      TextView imgView = ViewBindings.findChildViewById(rootView, id);
+      ImageView imgView = ViewBindings.findChildViewById(rootView, id);
       if (imgView == null) {
         break missingId;
       }
@@ -82,7 +101,8 @@ public final class ItemSurveyBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ItemSurveyBinding((CardView) rootView, cbSelect, imgView, tvTopicName);
+      return new ItemSurveyBinding((CardView) rootView, cardContainer, cardSurvey, cbSelect,
+          imgView, tvTopicName);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

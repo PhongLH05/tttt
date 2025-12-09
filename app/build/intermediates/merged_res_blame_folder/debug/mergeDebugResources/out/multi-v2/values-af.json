@@ -4,7 +4,7 @@
             "outputFile": "com.example.myapplication.app-mergeDebugResources-35:/values-af/values-af.xml",
             "map": [
                 {
-                    "source": "/Users/phongle/.gradle/caches/8.13/transforms/e0bfd81bffd15d38e47c33c34f40f39d/transformed/appcompat-1.7.1/res/values-af/values-af.xml",
+                    "source": "/Users/phongle/.gradle/caches/8.13/transforms/328045c3a980fa9335e6e15d61dfc482/transformed/appcompat-1.7.1/res/values-af/values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/phongle/.gradle/caches/8.13/transforms/55d49d68fd0f35ec0f69a2bb9167357f/transformed/core-1.17.0/res/values-af/values-af.xml",
+                    "source": "/Users/phongle/.gradle/caches/8.13/transforms/c27d22fbeed328da10bccd1945e5a122/transformed/core-1.17.0/res/values-af/values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/phongle/.gradle/caches/8.13/transforms/6703635d368062330bffd43ca7c3b6e2/transformed/material-1.13.0/res/values-af/values-af.xml",
+                    "source": "/Users/phongle/.gradle/caches/8.13/transforms/49a7a044f7808182744c9bfc2406efb4/transformed/material-1.13.0/res/values-af/values-af.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

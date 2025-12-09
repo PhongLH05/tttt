@@ -7,7 +7,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -22,34 +21,16 @@ public final class ItemAdsBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final Button button2;
-
-  @NonNull
-  public final ImageView imageView;
+  public final Button btnDowload;
 
   @NonNull
   public final ImageView imageView2;
 
-  @NonNull
-  public final LinearLayout linearLayout;
-
-  @NonNull
-  public final TextView textView3;
-
-  @NonNull
-  public final TextView textView4;
-
-  private ItemAdsBinding(@NonNull LinearLayout rootView, @NonNull Button button2,
-      @NonNull ImageView imageView, @NonNull ImageView imageView2,
-      @NonNull LinearLayout linearLayout, @NonNull TextView textView3,
-      @NonNull TextView textView4) {
+  private ItemAdsBinding(@NonNull LinearLayout rootView, @NonNull Button btnDowload,
+      @NonNull ImageView imageView2) {
     this.rootView = rootView;
-    this.button2 = button2;
-    this.imageView = imageView;
+    this.btnDowload = btnDowload;
     this.imageView2 = imageView2;
-    this.linearLayout = linearLayout;
-    this.textView3 = textView3;
-    this.textView4 = textView4;
   }
 
   @Override
@@ -79,15 +60,9 @@ public final class ItemAdsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.button2;
-      Button button2 = ViewBindings.findChildViewById(rootView, id);
-      if (button2 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageView;
-      ImageView imageView = ViewBindings.findChildViewById(rootView, id);
-      if (imageView == null) {
+      id = R.id.btn_dowload;
+      Button btnDowload = ViewBindings.findChildViewById(rootView, id);
+      if (btnDowload == null) {
         break missingId;
       }
 
@@ -97,26 +72,7 @@ public final class ItemAdsBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.linearLayout;
-      LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
-      if (linearLayout == null) {
-        break missingId;
-      }
-
-      id = R.id.textView3;
-      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
-      if (textView3 == null) {
-        break missingId;
-      }
-
-      id = R.id.textView4;
-      TextView textView4 = ViewBindings.findChildViewById(rootView, id);
-      if (textView4 == null) {
-        break missingId;
-      }
-
-      return new ItemAdsBinding((LinearLayout) rootView, button2, imageView, imageView2,
-          linearLayout, textView3, textView4);
+      return new ItemAdsBinding((LinearLayout) rootView, btnDowload, imageView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -14,6 +14,7 @@ import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import androidx.viewpager2.widget.ViewPager2;
 import com.example.myapplication.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -48,19 +49,19 @@ public final class ActivityObactivityBinding implements ViewBinding {
   public final LinearLayout paginationDots;
 
   @NonNull
-  public final ImageView rvPhoneScreens;
-
-  @NonNull
   public final TextView tvDes;
 
   @NonNull
   public final TextView txTitle;
 
+  @NonNull
+  public final ViewPager2 viewPager;
+
   private ActivityObactivityBinding(@NonNull ConstraintLayout rootView,
       @NonNull LinearLayout bottomCard, @NonNull Button btnNext, @NonNull ImageView dot1,
       @NonNull ImageView dot2, @NonNull ImageView dot3, @NonNull FrameLayout frameAds,
-      @NonNull ConstraintLayout main, @NonNull LinearLayout paginationDots,
-      @NonNull ImageView rvPhoneScreens, @NonNull TextView tvDes, @NonNull TextView txTitle) {
+      @NonNull ConstraintLayout main, @NonNull LinearLayout paginationDots, @NonNull TextView tvDes,
+      @NonNull TextView txTitle, @NonNull ViewPager2 viewPager) {
     this.rootView = rootView;
     this.bottomCard = bottomCard;
     this.btnNext = btnNext;
@@ -70,9 +71,9 @@ public final class ActivityObactivityBinding implements ViewBinding {
     this.frameAds = frameAds;
     this.main = main;
     this.paginationDots = paginationDots;
-    this.rvPhoneScreens = rvPhoneScreens;
     this.tvDes = tvDes;
     this.txTitle = txTitle;
+    this.viewPager = viewPager;
   }
 
   @Override
@@ -146,12 +147,6 @@ public final class ActivityObactivityBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.rv_phone_screens;
-      ImageView rvPhoneScreens = ViewBindings.findChildViewById(rootView, id);
-      if (rvPhoneScreens == null) {
-        break missingId;
-      }
-
       id = R.id.tv_des;
       TextView tvDes = ViewBindings.findChildViewById(rootView, id);
       if (tvDes == null) {
@@ -164,8 +159,14 @@ public final class ActivityObactivityBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.viewPager;
+      ViewPager2 viewPager = ViewBindings.findChildViewById(rootView, id);
+      if (viewPager == null) {
+        break missingId;
+      }
+
       return new ActivityObactivityBinding((ConstraintLayout) rootView, bottomCard, btnNext, dot1,
-          dot2, dot3, frameAds, main, paginationDots, rvPhoneScreens, tvDes, txTitle);
+          dot2, dot3, frameAds, main, paginationDots, tvDes, txTitle, viewPager);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

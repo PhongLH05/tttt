@@ -1,6 +1,7 @@
 package com.example.myapplication.Firstopen
 
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import android.view.View
 import androidx.activity.enableEdgeToEdge
@@ -17,13 +18,14 @@ import com.example.myapplication.databinding.ActivityFirstopenBinding
 class FirstopenActivity : AppCompatActivity() {
     private lateinit var binding: ActivityFirstopenBinding
     private val adapter = ItemAdapter { hasSelection ->
-        binding.btnNext.visibility = android.view.View.VISIBLE
         if (hasSelection) {
-            binding.btnNext.background = ContextCompat.getDrawable(this, R.drawable.button_gradient)
+            binding.btnNext.setBackgroundColor(Color.parseColor("#22B9FF"))
             binding.btnNext.isEnabled = true
+            binding.btnNext.setTextColor(ContextCompat.getColor(this, R.color.white))
         } else {
-            binding.btnNext.background = ContextCompat.getDrawable(this, R.drawable.button_gray)
+            binding.btnNext.setBackgroundColor(Color.parseColor("#CCCCCC"))
             binding.btnNext.isEnabled = false
+            binding.btnNext.setTextColor(ContextCompat.getColor(this, R.color.white))
         }
     }
 

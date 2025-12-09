@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -26,6 +27,9 @@ public final class ActivitySurveyBinding implements ViewBinding {
   public final Button btnNext;
 
   @NonNull
+  public final FrameLayout frameAds;
+
+  @NonNull
   public final LinearLayout header;
 
   @NonNull
@@ -41,10 +45,11 @@ public final class ActivitySurveyBinding implements ViewBinding {
   public final TextView tvTitle;
 
   private ActivitySurveyBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnNext,
-      @NonNull LinearLayout header, @NonNull ConstraintLayout main, @NonNull RecyclerView rvTopics,
-      @NonNull TextView tvSubtitle, @NonNull TextView tvTitle) {
+      @NonNull FrameLayout frameAds, @NonNull LinearLayout header, @NonNull ConstraintLayout main,
+      @NonNull RecyclerView rvTopics, @NonNull TextView tvSubtitle, @NonNull TextView tvTitle) {
     this.rootView = rootView;
     this.btnNext = btnNext;
+    this.frameAds = frameAds;
     this.header = header;
     this.main = main;
     this.rvTopics = rvTopics;
@@ -85,6 +90,12 @@ public final class ActivitySurveyBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.frame_ads;
+      FrameLayout frameAds = ViewBindings.findChildViewById(rootView, id);
+      if (frameAds == null) {
+        break missingId;
+      }
+
       id = R.id.header;
       LinearLayout header = ViewBindings.findChildViewById(rootView, id);
       if (header == null) {
@@ -111,8 +122,8 @@ public final class ActivitySurveyBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivitySurveyBinding((ConstraintLayout) rootView, btnNext, header, main, rvTopics,
-          tvSubtitle, tvTitle);
+      return new ActivitySurveyBinding((ConstraintLayout) rootView, btnNext, frameAds, header, main,
+          rvTopics, tvSubtitle, tvTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

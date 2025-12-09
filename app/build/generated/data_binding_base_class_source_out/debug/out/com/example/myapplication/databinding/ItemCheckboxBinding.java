@@ -8,6 +8,7 @@ import android.widget.CheckBox;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.myapplication.R;
@@ -27,16 +28,21 @@ public final class ItemCheckboxBinding implements ViewBinding {
   public final CheckBox cbSelect;
 
   @NonNull
+  public final ConstraintLayout container;
+
+  @NonNull
   public final TextView tvFlag;
 
   @NonNull
   public final TextView tvItemName;
 
   private ItemCheckboxBinding(@NonNull MaterialCardView rootView, @NonNull MaterialCardView card,
-      @NonNull CheckBox cbSelect, @NonNull TextView tvFlag, @NonNull TextView tvItemName) {
+      @NonNull CheckBox cbSelect, @NonNull ConstraintLayout container, @NonNull TextView tvFlag,
+      @NonNull TextView tvItemName) {
     this.rootView = rootView;
     this.card = card;
     this.cbSelect = cbSelect;
+    this.container = container;
     this.tvFlag = tvFlag;
     this.tvItemName = tvItemName;
   }
@@ -76,6 +82,12 @@ public final class ItemCheckboxBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.container;
+      ConstraintLayout container = ViewBindings.findChildViewById(rootView, id);
+      if (container == null) {
+        break missingId;
+      }
+
       id = R.id.tv_flag;
       TextView tvFlag = ViewBindings.findChildViewById(rootView, id);
       if (tvFlag == null) {
@@ -88,7 +100,7 @@ public final class ItemCheckboxBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ItemCheckboxBinding((MaterialCardView) rootView, card, cbSelect, tvFlag,
+      return new ItemCheckboxBinding((MaterialCardView) rootView, card, cbSelect, container, tvFlag,
           tvItemName);
     }
     String missingId = rootView.getResources().getResourceName(id);

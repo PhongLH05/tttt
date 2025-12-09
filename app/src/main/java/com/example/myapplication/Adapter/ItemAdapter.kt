@@ -28,23 +28,23 @@ class ItemAdapter(
         fun bind(item: LanguageItem) = with(binding) {
             tvItemName.text = item.title
             tvFlag.text = item.flag
+            
+            cbSelect.setOnCheckedChangeListener(null)
             cbSelect.isChecked = item.isCheck
-
-            root.setOnClickListener {
+            
+            container.setOnClickListener {
                 item.isCheck = !item.isCheck
                 cbSelect.isChecked = item.isCheck
                 onSelectionChanged(items.any { it.isCheck })
             }
 
-            cbSelect.setOnClickListener {
-                item.isCheck = cbSelect.isChecked
+            card.setOnClickListener {
+                item.isCheck = !item.isCheck
+                cbSelect.isChecked = item.isCheck
                 onSelectionChanged(items.any { it.isCheck })
             }
 
-            card.setOnClickListener {
-                item.isCheck = cbSelect.isChecked
-                onSelectionChanged(items.any { it.isCheck })
-            }
+            cbSelect.setOnCheckedChangeListener(null)
         }
     }
 
