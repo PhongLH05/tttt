@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/item_ads.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_ads.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/item_survey_ads.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_survey_ads.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/item_phone_screen.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_phone_screen.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/activity_obactivity.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_obactivity.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/item_survey.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_survey.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/activity_firstopen.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_firstopen.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/activity_survey.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_survey.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/item_checkbox.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_checkbox.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-36:/layout/item_ads.xml",
+        "source": "com.example.myapplication.app-main-39:/layout/item_ads.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-mergeDebugResources-36:/layout/item_lang.xml",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_lang.xml"
+    }
+]

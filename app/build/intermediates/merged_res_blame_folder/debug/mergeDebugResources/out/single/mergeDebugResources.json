@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_item_phone_screen.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_phone_screen.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_dark_background.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/dark_background.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_activity_firstopen.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_firstopen.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_button_gray.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/button_gray.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_item_checkbox.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_header_gradient.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/header_gradient.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_pagination_dot_inactive.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/pagination_dot_inactive.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_item_lang.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_lang.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_pagination_dot_active.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/pagination_dot_active.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_activity_survey.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_survey.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/xml_backup_rules.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-37:/layout_item_ads.xml.flat",
+        "source": "com.example.myapplication.app-main-39:/layout/item_ads.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_item_ads.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_ads.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_item_survey.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_survey.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_button_gradient.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/button_gradient.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_activity_obactivity.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/activity_obactivity.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_phone_screen_shape.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/phone_screen_shape.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/drawable_white_card.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/drawable/white_card.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/layout_item_survey_ads.xml.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/layout/item_survey_ads.xml"
+    },
+    {
+        "merged": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/phongle/.gradle/daemon/8.13/com.example.myapplication.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
